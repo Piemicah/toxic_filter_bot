@@ -33,7 +33,7 @@ CATEGORIES = [
         ","
     )
 ]
-DETOXIFY_MODEL = os.getenv("DETOXIFY_MODEL", "unbiased-small")
+DETOXIFY_MODEL = os.getenv("DETOXIFY_MODEL", "original")
 
 
 # ---------- Load Model ----------
