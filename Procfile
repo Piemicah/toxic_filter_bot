@@ -1,0 +1,1 @@
+worker: python toxic_filter_bot.py

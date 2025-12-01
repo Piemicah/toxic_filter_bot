@@ -3,3 +3,4 @@ detoxify
 torch
 numpy
 requests
+transformers
